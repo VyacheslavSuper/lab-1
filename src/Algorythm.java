@@ -1,7 +1,7 @@
 class Algorythm {
     private String msg;
     public Algorythm(){
-        msg = "Good Morning!";
+        msg = "Hello World!";
     }
 	public Algorythm(String msg){
         this.msg = msg;
